@@ -7,7 +7,7 @@
 * Reverted EEG timestamping (needs post-process) to prevent timestamps overlaps, consequence of retrocalculation 
 
 
-## Release 2.0
+## Release 2.0 (BLE connectivity unreliable in challenging environment)
 * Real-time data viewer
 * Fixed audio recording (not all USB cameras are supported)
 * MQTT controller integration
