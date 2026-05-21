@@ -1,5 +1,12 @@
 # viziaMobile-releases
 
+
+## Release 2.1
+* Improved BLE connection stability (2M Phy now being negotiated)
+* Experiment id can be configured using QR Code
+* Reverted EEG timestamping (needs post-process) to prevent timestamps overlaps, consequence of retrocalculation 
+
+
 ## Release 2.0
 * Real-time data viewer
 * Fixed audio recording (not all USB cameras are supported)
