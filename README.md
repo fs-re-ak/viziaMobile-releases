@@ -2,6 +2,9 @@
 
 <img width="410" height="410" alt="viziaMobileRelease" src="https://github.com/user-attachments/assets/71f0e656-b91a-4fb3-b019-64a9f510f6fa" />
 
+## Release 2.2
+* integrated Shimmer3R (legacy support un touched)
+* IMU is now scaled to physical units
 
 ## Release 2.1
 * Improved BLE connection stability (2M Phy now being negotiated)
