@@ -2,6 +2,22 @@
 
 <img width="410" height="410" alt="viziaMobileRelease" src="https://github.com/user-attachments/assets/71f0e656-b91a-4fb3-b019-64a9f510f6fa" />
 
+## Release 2.4.0
+* Positioning as a device (GPS/UWB)
+* UWB positioning (DWM1001) integration
+* Intake survey before a session, 
+* French consent and survey strings, language picker for those documents, 
+* Experiment-document download with an offline cache, 
+* Bluetooth scan filter, 
+* Erase-local-data-after-upload
+* Always reconnecting
+* Headset motion uploads as MOTION and Shimmer gyro as GYRO
+* Live streaming of session CSV files to the server while recording
+
+## Release 2.3.0
+* Auto-revoke consent after each recording.
+* Robust mode: optionally require the headset, wristband, or camera to be connected before a recording can start.
+* Optional unique ID on the consent form.
 
 ## Release 2.2.2
 * MQTT fixes:
