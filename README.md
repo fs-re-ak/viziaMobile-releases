@@ -2,6 +2,12 @@
 
 <img width="410" height="410" alt="viziaMobileRelease" src="https://github.com/user-attachments/assets/71f0e656-b91a-4fb3-b019-64a9f510f6fa" />
 
+
+## Release 2.5.0
+* In-app updates: the app checks GitHub Releases and can download and install a new APK when you choose
+* Settings QR codes parse more strictly, and turning on Cloud Upload asks for confirmation first
+* Quit App actually quits: services stop, MQTT disconnects, and notifications stay gone
+
 ## Release 2.4.0
 * Positioning as a device (GPS/UWB)
 * UWB positioning (DWM1001) integration
